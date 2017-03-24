@@ -10,7 +10,7 @@ namespace ruap
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Kristina Slovic Luka Omrcen");
+            Console.WriteLine("Pozdrav iz aplikacije od Kristina Slovic 883 Luka Omrcen");
         }
     }
 }
